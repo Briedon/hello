@@ -1,0 +1,14 @@
+/**
+ *
+ * @author marian
+ */
+public class newMain {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
+    
+}
