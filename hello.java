@@ -2,7 +2,7 @@
  *
  * @author marian
  */
-public class newMain {
+public class hello {
 
     /**
      * @param args the command line arguments
